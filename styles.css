@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.red-box{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+
+.white-p {
+  color: white;
+  font-family: cursive;
+}
+
+
+.text-center{
+    text-align: center;
+    color: green;
+}
+
+#purple-p {
+  color: purple;
+  font-family: monospace;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-end{
+    text-align: end;
+}
+
+.text-red{
+    color: red;
+}
+
+
+.product-card{
+
+}
+
+.footer{
+
+}
+
+.add-to-cart{
+
+}
